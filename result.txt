@@ -1,0 +1,5 @@
+2024년 2월 14일 수요일 17시 59분 18초 KST
+/Users/boki/linux-practice
+2024년 2월 14일 수요일 17시 57분 34초 KST
+hello-file
+result.txt
